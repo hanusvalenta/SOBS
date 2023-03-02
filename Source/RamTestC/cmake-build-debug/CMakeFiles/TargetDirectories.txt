@@ -1,3 +1,0 @@
-C:/Users/Hans PC/Downloads/RamTest/cmake-build-debug/CMakeFiles/RamTest.dir
-C:/Users/Hans PC/Downloads/RamTest/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Hans PC/Downloads/RamTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
